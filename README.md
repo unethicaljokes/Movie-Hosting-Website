@@ -1,7 +1,16 @@
 # Movie-Hosting-Website
 
+Movie hosting website which allows you to watch your favorite movies with no ads
 
-Task list:
+# Website
+
+https://movies.unethicaljokes.com
+
+# Donations
+
+https://www.gofundme.com/f/unethicaljokes-movies
+
+# Task list:
 
 1) Welcome Page
 2) Monitor Traffic
